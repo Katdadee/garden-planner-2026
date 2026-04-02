@@ -1,0 +1,9 @@
+{
+  "name": "Garden Planner 2026",
+  "short_name": "Garden",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E6",
+  "theme_color": "#1B5E20",
+  "icons": []
+}
